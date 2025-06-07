@@ -27,10 +27,12 @@ console.log(donkuholk);
 
 ///heep memory
 
-let userone{
-  email: "ferdous89@gmail.com",
-  phone: 01478259656,
-}
+let userone = {
+  email: 'ferdous89@gmail.com',
+  phone: '01478259656',
+};
+
+
 let usertwo = userone
 usertwo.email="ulala@gmail.com"
 
